@@ -1,3 +1,5 @@
+# This project has been retired, and replaced by https://github.com/hornbill/powershellHornbillAzureRunbooks
+
 # Azure and OMS Hornbill Integration
 
 A collection of Powershell Runbooks and Modules for Microsoft Azure Automation and Operations Management Suite, to demonstrate integration with the Hornbill Collaboration platform and Service Manager application.
